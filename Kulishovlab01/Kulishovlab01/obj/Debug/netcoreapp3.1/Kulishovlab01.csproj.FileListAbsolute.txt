@@ -1,0 +1,28 @@
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.exe
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.deps.json
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.runtimeconfig.json
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.runtimeconfig.dev.json
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.dll
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.pdb
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.AssemblyInfo.cs
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.dll
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.pdb
+C:\Users\serge\source\repos\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.exe
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.runtimeconfig.dev.json
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.dll
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\bin\Debug\netcoreapp3.1\Kulishovlab01.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.dll
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Kulishovlab01\Kulishovlab01\obj\Debug\netcoreapp3.1\Kulishovlab01.genruntimeconfig.cache
